@@ -1,2 +1,2 @@
-Git is aversion contral system.
+Git is distributed version  contral system.
 Git is free software.
